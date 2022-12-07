@@ -1,0 +1,28 @@
+.po{
+    color: yellow;
+}
+body{
+    background-color: rgb(95, 91, 91);
+}
+
+.to{
+    color: red;
+}
+li{
+    color: white;
+    font-weight: bold;
+}
+h3{
+    color: rgb(109, 109, 236);
+    font-size: 30px;
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+h1{
+    color: rgb(109, 109, 236); 
+}
+.do{
+    color: white;
+}
